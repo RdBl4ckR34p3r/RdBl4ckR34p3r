@@ -1,12 +1,12 @@
 ## [🎩] - Olá! Eu me chamo Rodrigo Gomes F. Ribeiro
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+5534998912853)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rd.host)
-
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=RdBl4ckR34p3r&show_icons=true&theme=dracula&count_private=true) 
 ![Frage Github Lnags](https://github-readme-stats.vercel.app/api/top-langs/?username=RdBl4ckR34p3r&theme=dracula)
 
-## ↣ Linguagens de programação:
+## ↦ Redes Sociais:
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+5534998912853)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rd.host)
+
+## ↦ Linguagens De Programação:
 
 <div style="display: inline_block">
 
@@ -17,7 +17,7 @@
   <img align="center" alt="ts" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </div><br/>
 
-## ↣ Sistemas operacionais:
+## ↦ Sistemas Operacionais:
 
 <div style="display: inline_block">
 
