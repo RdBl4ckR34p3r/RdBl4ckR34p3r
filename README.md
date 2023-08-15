@@ -22,3 +22,32 @@
   <img align="center" alt="js" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="ts" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </div><br/>
+
+
+
+
+
+ <html>
+   <body>
+    <h2>
+         <fieldset>
+         <legend style="color:; background-color:black;">Sobre mim!</legend>
+         <p><h4>
+        Olá! Sou um jovem estudante de T.I. com o sonho de entrar no mundo da perícia digital da Polícia Federal. Estudo Hacking e Programação desde os 11 anos de idade sem descanso. Atualmente, tenho 15 anos, prestes a completar 16. No momento, possuo 4 certificados na área, sendo eles:
+           <p>
+           <legend style="color:blue; background-color:;">1. Desenvolvimento Web - MIMO</legend>
+           </p>
+           <p>
+           <legend style="color:blue; background-color:;">2. Python - MIMO
+           </p>
+           <p>
+           <legend style="color:blue; background-color:;">3. SQL - MIMO
+           </p>
+           <p>
+           <legend style="color:blue; background-color:;">4. Ataques de negação de serviço (DoS e DDoS) Kali Linux - Udemy
+           </p>
+           Cursando +2 cursos atualmente(Programação de Desktop e Hacker Etico com Kali Linux)
+         </p></h4>
+         </fieldset>
+    </h2>   
+ </html>
